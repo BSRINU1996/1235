@@ -7,6 +7,4 @@ console.log("sjdbhSLsdhe")
 console.log("kasjfhbvls")
 console.log("git practise")
 console.log("gsadfbgv")
-console.log("gerlkfbvanlsyfe")
-console.log("git praergfkjn flhae")
-console.log("git ")
+
